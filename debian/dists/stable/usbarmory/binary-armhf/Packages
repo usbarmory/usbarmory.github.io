@@ -1,12 +1,33 @@
-Package: linux-image-4.9-usbarmory
+Package: linux-image-4.14-usbarmory
+Version: 4.14.20-0
 Architecture: armhf
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.20-0_armhf.deb
+Size: 5338786
+MD5sum: 1fecae86948ffea92fde52067c6dd8d5
+SHA1: 4df5b9f517dc7aabbcc6c444befd36ef248abb74
+SHA256: edfe8bfb7bdb26de04aae32a386c71794a13774bc0e0e57d7dc6c7c052daa328
+Description: Linux 4.14 for USB armory
+
+Package: linux-image-4.9-usbarmory
+Version: 4.9.80-0
+Architecture: armhf
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.80-0_armhf.deb
+Size: 5096854
+MD5sum: 28ee0fdd2a11240125adae5afca7a129
+SHA1: 075fc20fafcdd97874667c525b5bae1be40fdd67
+SHA256: f74fc54e5f629b87fd00aa52a53ed34d375892deee46b27d7204ba638f3ea51d
+Description: Linux 4.9 for USB armory
+
+Package: linux-image-4.9-usbarmory
 Version: 4.9.82-0
+Architecture: armhf
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.82-0_armhf.deb
 Size: 5097636
 MD5sum: 1e897e47c89f7279a68e1fa4f68c05cf
 SHA1: 17988881c241c0a06e12169ff2993a043394a4fe
 SHA256: 48ba1df212ddbffbbc090f6a3ddfccf2dc0d500271a9e72210d9fdaf439c5281
-SHA512: 8ca621b0847578bf9193e1e33abef7dc102228e6231c9da53e4f1de5436f0bdc72e01cfcd21e96cb2a5829970f64391de408da6b7eaf1a056a64fc54a05b8f67
 Description: Linux 4.9 for USB armory
 
