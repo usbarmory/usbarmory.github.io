@@ -9,6 +9,17 @@ SHA1: 4df5b9f517dc7aabbcc6c444befd36ef248abb74
 SHA256: edfe8bfb7bdb26de04aae32a386c71794a13774bc0e0e57d7dc6c7c052daa328
 Description: Linux 4.14 for USB armory
 
+Package: linux-image-4.14-usbarmory
+Version: 4.14.22-0
+Architecture: armhf
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.22-0_armhf.deb
+Size: 5339544
+MD5sum: 6b944806fc22e4beb2f7945a10d4cc6f
+SHA1: c86d49cb4e35715f6e5db122fa3bbc6e91b3af87
+SHA256: 72eda4fcab6640065f579d0d612b84d53f99dc619a524fff56b51a430c43d8c1
+Description: Linux 4.14 for USB armory
+
 Package: linux-image-4.9-usbarmory
 Version: 4.9.80-0
 Architecture: armhf
