@@ -2,7 +2,7 @@ Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.110-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.22-0_armhf.deb/dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.110-0_armhf.deb
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.20-0_armhf.deb/dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.110-0_armhf.deb
 Size: 5358608
 MD5sum: 740d4cab7ce28bba1c840b6a8d28b800
 SHA1: f6764ad6af5d2998ed788a2821af73f37f7d83b5
