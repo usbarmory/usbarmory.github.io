@@ -46,6 +46,18 @@ SHA256: 23a7633fc3ba48d25e21da09dfcbab21256856067ca36913b7657422c4080b0e
 SHA512: 19c1fea98e80f3320736a3428391954d9b032ad7cb48448b44b14c62534f5934af667cad3ba99a745de3db3133607b1d52a773f8fb7aefa3129f910b447c210c
 Description: Linux 4.19 for USB armory mark-two
 
+Package: linux-image-4.19-usbarmory-mark-two
+Architecture: armhf
+Version: 4.19.67-0
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.67-0_armhf.deb
+Size: 5682792
+MD5sum: cbcedfa03a82d4a29bd9d706dc1b04cb
+SHA1: 459450346f3fbe07d58714fd60ae5129e376423c
+SHA256: 727946b970d7ad08b9662f2881cd8ffe71afe5ed7d88c92749c678aa304ae0f0
+SHA512: 3155c53db7bed1b4ff9b16e14e9703323c1b93cddae3e79a6473db9a36419b7089d1d5176f5092ef5717857d7f9a3aef15958f27da07f65634a102349966be80
+Description: Linux 4.19 for USB armory mark-two
+
 Package: linux-image-4.9-usbarmory
 Architecture: armhf
 Version: 4.9.80-0
