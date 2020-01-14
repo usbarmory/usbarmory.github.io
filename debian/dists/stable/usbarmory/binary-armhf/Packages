@@ -1,3 +1,15 @@
+Package: armoryctl
+Architecture: armhf
+Version: 1.0
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.0_armhf.deb
+Size: 944116
+MD5sum: c9af669bac71e58e701826100a4ca2b7
+SHA1: bd62ab798c5da494bd23650f44fb82177848fb25
+SHA256: 8bbb81b19496cc2b3c18d2e239a0714573ebc169ccc0940582f99205c51311fe
+SHA512: 34aa2da4bc3af853763eb807685b1d0b9835a808a7100c4c6fea34c43beae5628350088e6a3380af3d6c12635a1ab76965678d7f5eb0a78a4003406bc3f70c58
+Description: USB armory Mk II hardware control tool
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
