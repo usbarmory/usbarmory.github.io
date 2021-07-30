@@ -22,6 +22,43 @@ SHA256: 21a057e950498ab6536c6a695bc45b15376520d11d6238cc7a833bbabd255ea2
 SHA512: a0aa91fd8ad52c734a9fbfb06c40b5ec902474246f1afcb442de49c72f2251eee9d80f821283d337bd57374dab007be757908dbac0ff858529d0baeadad939ac
 Description: USB armory Mk II hardware control tool
 
+Package: armoryctl
+Architecture: armhf
+Version: 1.2
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.2_armhf.deb
+Size: 874804
+MD5sum: 4377a151b253ccf87afc19a49192ce12
+SHA1: c38a5373cc8921fba355289e7b1b20bd7978c874
+SHA256: fa0e590093e86187d90a654f95da7af146a028f35459bc6e5b49323aaddad5fc
+SHA512: c13b7646dcb9fca96a36394e891981f27cde48b064a6d25d7c23dcb52ecebc1d239e7c191ae32d3284381335b6cdb5fdb2797e7d89ebd66f628fc0610fc86f5a
+Description: USB armory Mk II hardware control tool
+
+Package: crucible
+Architecture: armhf
+Version: 2021.05.03
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/crucible_2021.05.03_armhf.deb
+Size: 869488
+MD5sum: ad0c79b20ab2e5221bfbbe5137593719
+SHA1: 0892d6a979b132662a6b2b72fecac09bc2489ae1
+SHA256: ff9760587a2918c5cb6c938294d66bcc9d96047bdd96db194955a157b4faeab9
+SHA512: b68230abff838c269f953f72cdbbb48710c0987cb285cceaeb9df993a98835229db9d228e4abc9cd92e8e37108b3221a51cd72dd2fb11743b98e77cc92cebd45
+Description: One-Time-Programmable (OTP) fusing tool
+
+Package: linux-headers-5.10-usbarmory-mark-two
+Architecture: armhf
+Version: 5.10.54-0
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Depends: linux-image-5.10-usbarmory-mark-two (=5.10.54-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
+Size: 1081740
+MD5sum: 10a15e7263abaf9a158da54c67ae7f27
+SHA1: d6e18e0f166589b9967dfb3c0d47c1fa437719b8
+SHA256: 7f92472d0e47c1df79d619e481d6dc11f84fe7c5c9c03b9bbd6a16f579155a5c
+SHA512: 431d8b08505d9c913e8e8a7726d11ca3bd6b9d4f1db43d9dbb774f03a9852b55df64a5dc41b09609c2fc425b5149db2eee1e2ca5a15e9637feb554650af9faf3
+Description: Header file for Linux 5.10 for USB armory mark-two
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
@@ -164,6 +201,18 @@ MD5sum: d53d2550b189f2ecfddd1634c05aa70a
 SHA1: aafd170398ee620045a092a59a09118889d60d8e
 SHA256: bae8ddd829a547357a63c952a894fd8da1b80ebadae055a40adb06aec8f6b60e
 SHA512: 5dadb1fe20756210708de66e19cdcde15c828f515c7e8ac9fa2b83cb18c7ea41e5fca93007d7a6f3ae26c171952031e3a2a539d43388d9e5f30a8625c045cc41
+Description: Linux 5.10 for USB armory mark-two
+
+Package: linux-image-5.10-usbarmory-mark-two
+Architecture: armhf
+Version: 5.10.54-0
+Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
+Size: 10409188
+MD5sum: 16b236812e477ad2fc50365607043795
+SHA1: f1d08fcff1085902420c1e4736cae093581a132b
+SHA256: 9b3a2a9d0112ab1c5865ecedc49cc7567b782edd36bf1b2929ab2a522719fc88
+SHA512: 159cf725bd28bf8cb4418ea95cc8e76c971e68646c87213079a1f8900e5bbe5c2704564e1890d25391e091cd25f6f4593dc5f79cb3e90803e5e8b61b28265e0a
 Description: Linux 5.10 for USB armory mark-two
 
 Package: linux-image-5.4-usbarmory-mark-two
