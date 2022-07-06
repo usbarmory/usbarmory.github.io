@@ -97,6 +97,19 @@ SHA256: 7f82759a321586f65d28adb701f9eb24a891cb3b66a02dc6202fcac175085fc6
 SHA512: 17d227d0771f646da496e519a7063aa8fd9ad015eb96bcd10a9a463993b42afa11220ea3095fd30742de94413a37a559f6dc575ab5252064c42fc45f57ad7615
 Description: Header file for Linux 5.10 for USB armory mark-two
 
+Package: linux-headers-5.15-usbarmory
+Architecture: armhf
+Version: 5.15.52-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Depends: linux-image-5.15-usbarmory (=5.15.52-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
+Size: 1141756
+MD5sum: 4b83cd844e642c6a6a8e6443acb6bf2e
+SHA1: 1898a1a5ad5410129ddb0784f243fb6a63dbc38b
+SHA256: 6ab4c48308cf75f011685ee1ca4b12d08c3b2950c310c12ef9e0f3077f9d492b
+SHA512: 22e65f7f30a576e2c86755800fa5b941380a96819dd9c54fd1d5d790a4808ff0cc2bec2ce7da8259d1aa564b2f9e505b5ee54545edb81893ddefc32a4ee480ae
+Description: Header file for Linux 5.15 for USB armory mark-one
+
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.27-0
@@ -302,6 +315,18 @@ SHA1: e03b6fd0f49bba803ffcf2b0239afa9eccc65587
 SHA256: 3285f34224629b1bb94392bab55abf29ea8e876407f606ecc857e8f2d323d30b
 SHA512: 9ae49f2e5c73cae32dc9e83015af92c1fcefa4fb4875f60814ab2f989937ba55cc1292833f4c7747423caf4ceabe8fa5eaabcc093bd2b0edc69a8c3399d4a243
 Description: Linux 5.10 for USB armory mark-two
+
+Package: linux-image-5.15-usbarmory
+Architecture: armhf
+Version: 5.15.52-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
+Size: 10815208
+MD5sum: d930c81c8efc55df6d72e7469afd17ab
+SHA1: 73c43b2c49d7df9ffdd7d5bb436fdbafbe6390aa
+SHA256: 202b36baef076fd19d9d2cc1c1b7fdcbc842299229bbfee26ba50290ae14dd84
+SHA512: dff6feb9d9c062c993f3828e065688577c6155d24dccb45218e6e8d6d0a8783b76a91a61c3920d9102e38a9b781653b4749748ca527a7cb667ed330acb90e6fa
+Description: Linux 5.15 for USB armory mark-one
 
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
