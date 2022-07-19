@@ -2,7 +2,7 @@ Package: armoryctl
 Architecture: armhf
 Version: 1.0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/armoryctl_1.0_armhf.deb
 Size: 944116
 MD5sum: c9af669bac71e58e701826100a4ca2b7
 SHA1: bd62ab798c5da494bd23650f44fb82177848fb25
@@ -14,7 +14,7 @@ Package: armoryctl
 Architecture: armhf
 Version: 1.1
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.1_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/armoryctl_1.1_armhf.deb
 Size: 879176
 MD5sum: 74baa4888139ac3e8fbe59f320217ff0
 SHA1: 30a1c74ba6aa651437575a8a28a96184907e3bb4
@@ -26,7 +26,7 @@ Package: armoryctl
 Architecture: armhf
 Version: 1.2
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.2_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/armoryctl_1.2_armhf.deb
 Size: 874804
 MD5sum: 4377a151b253ccf87afc19a49192ce12
 SHA1: c38a5373cc8921fba355289e7b1b20bd7978c874
@@ -38,7 +38,7 @@ Package: crucible
 Architecture: armhf
 Version: 2021.05.03
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/crucible_2021.05.03_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/crucible_2021.05.03_armhf.deb
 Size: 869488
 MD5sum: ad0c79b20ab2e5221bfbbe5137593719
 SHA1: 0892d6a979b132662a6b2b72fecac09bc2489ae1
@@ -50,7 +50,7 @@ Package: crucible
 Architecture: armhf
 Version: 2022.05.25
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
-Filename: dists/stable/usbarmory/binary-armhf/crucible_2022.05.25_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/crucible_2022.05.25_armhf.deb
 Size: 840840
 MD5sum: feb5529f60b445f24fcb3041c4afe45d
 SHA1: bef432feb095476bc9f730b00912d2e494bd415d
@@ -63,7 +63,7 @@ Architecture: armhf
 Version: 5.10.54-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.54-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
 Size: 1081740
 MD5sum: 10a15e7263abaf9a158da54c67ae7f27
 SHA1: d6e18e0f166589b9967dfb3c0d47c1fa437719b8
@@ -76,7 +76,7 @@ Architecture: armhf
 Version: 5.10.62-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.62-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
 Size: 1081896
 MD5sum: 4c904960b9ea6739df3303edf49da432
 SHA1: 6fd85ad0f181f0c348eb4ae9f50efeefe6e18f60
@@ -89,7 +89,7 @@ Architecture: armhf
 Version: 5.10.82-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.82-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
 Size: 1081928
 MD5sum: 022cfa3e7ae110bf39be1bf52b9358c3
 SHA1: 2765864d524d530a56c6306b6457dc825b77243f
@@ -102,7 +102,7 @@ Architecture: armhf
 Version: 5.15.52-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-5.15-usbarmory (=5.15.52-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
 Size: 1141756
 MD5sum: 4b83cd844e642c6a6a8e6443acb6bf2e
 SHA1: 1898a1a5ad5410129ddb0784f243fb6a63dbc38b
@@ -115,7 +115,7 @@ Architecture: armhf
 Version: 5.15.27-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.27-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
 Size: 1141280
 MD5sum: a4b0d3626f2266f20e4cb51efe480c26
 SHA1: 2cc8a4d6c7fe6189aecde89885fde8a9ade76beb
@@ -128,7 +128,7 @@ Architecture: armhf
 Version: 5.15.50-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.50-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
 Size: 1141824
 MD5sum: ce40617eac88f75154fa10ce42d665a5
 SHA1: 2996a5226f113201343a6cabb2b55e679f566b22
@@ -141,7 +141,7 @@ Architecture: armhf
 Version: 5.15.52-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.52-0)
-Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
 Size: 1141700
 MD5sum: a9f6687c2c51fc0dc8d2d3a3d6622df8
 SHA1: 214282f0a6499898f97e4abe0717d65741eb221b
@@ -149,11 +149,24 @@ SHA256: 1690c839e99b6f6aaf522e01bbb5b5f6cbaa847addb61e2e57b9c392d1ba6a7b
 SHA512: be67ac77ed268d828cf16ef3ab28087584477a67105c16554a19d63f3fe1a6946d9a3133b40604ace8022c8d0617ecd770fe69f8f045aee763a62fb063cf8715
 Description: Header file for Linux 5.15 for USB armory mark-two
 
+Package: linux-headers-5.15-usbarmory-mark-two
+Architecture: armhf
+Version: 5.15.55-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Depends: linux-image-5.15-usbarmory-mark-two (=5.15.55-0)
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
+Size: 1142124
+MD5sum: baa0d585a57d775cacb8ed8c5d4e8705
+SHA1: 4b2489ba5cbc8e638edb590305538b332bfacdf8
+SHA256: ac0b41ff40633f6cd69d0ddd4d3a50f5a796ae90f5eb7b64b62a0ec1653aa75a
+SHA512: e154bdb6df902f7991dbbbaa51be2a568916b5fcfa64fe0b5292fc32a6b9ae10ab895a74ea387ce46e3bfd1a28c90072ecba9bdc4de5df2dadcae0f2c85c2c83
+Description: Header file for Linux 5.15 for USB armory mark-two
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.116-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.116-0_armhf.deb
 Size: 5409058
 MD5sum: ea4579e7889240c29066d4e019492947
 SHA1: 0b2f2f9e766e7a1788109508b33141f7e69d4d1a
@@ -165,7 +178,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.57-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.57-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.57-0_armhf.deb
 Size: 5678854
 MD5sum: d58fbd954eecb16b93e79b6b00b898cb
 SHA1: 3729ebabcd81cee329ab1d9989c100a23fd34e61
@@ -177,7 +190,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.58-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.58-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.58-0_armhf.deb
 Size: 5680254
 MD5sum: 6f447557c2c8529328188244a15b0b66
 SHA1: 50359937e1128b434a7f77c27b1c1c158ef2e59b
@@ -189,7 +202,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.63-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.63-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.63-0_armhf.deb
 Size: 5681980
 MD5sum: 405b3f47753b8aa7782a2a2e37e4d119
 SHA1: 7b78952fdef8bcb225a0b01721ebff35e838b4f9
@@ -201,7 +214,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.67-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.67-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.67-0_armhf.deb
 Size: 5682792
 MD5sum: cbcedfa03a82d4a29bd9d706dc1b04cb
 SHA1: 459450346f3fbe07d58714fd60ae5129e376423c
@@ -213,7 +226,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.82-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.82-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.82-0_armhf.deb
 Size: 5677664
 MD5sum: 631a6781864e82dfcd03fa2c5f103e9e
 SHA1: 2a3adea2b1e89026528f56dfb4d0cabae20aecec
@@ -225,7 +238,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.90-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.90-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.90-0_armhf.deb
 Size: 5681828
 MD5sum: 7847146695c84587392628ba407dbfac
 SHA1: ae449ce70d8a3290dd93f081678dfd7a2cbbffc0
@@ -237,7 +250,7 @@ Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.95-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.95-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.95-0_armhf.deb
 Size: 5683460
 MD5sum: 25c52aa2fac14007138d5cff4ec5ab55
 SHA1: 21be21a66175889d2a16ee2732993ca7a7fbd5e9
@@ -249,7 +262,7 @@ Package: linux-image-4.9-usbarmory
 Architecture: armhf
 Version: 4.9.80-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.80-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.80-0_armhf.deb
 Size: 5096854
 MD5sum: 28ee0fdd2a11240125adae5afca7a129
 SHA1: 075fc20fafcdd97874667c525b5bae1be40fdd67
@@ -261,7 +274,7 @@ Package: linux-image-4.9-usbarmory
 Architecture: armhf
 Version: 4.9.82-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.82-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.82-0_armhf.deb
 Size: 5097636
 MD5sum: 1e897e47c89f7279a68e1fa4f68c05cf
 SHA1: 17988881c241c0a06e12169ff2993a043394a4fe
@@ -273,7 +286,7 @@ Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.22-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.22-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.22-0_armhf.deb
 Size: 10199696
 MD5sum: 011577d2af1ced313526b11fd112712d
 SHA1: b10de916a693be3f4946be759a94451ae0570956
@@ -285,7 +298,7 @@ Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.34-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.34-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.34-0_armhf.deb
 Size: 10202944
 MD5sum: d53d2550b189f2ecfddd1634c05aa70a
 SHA1: aafd170398ee620045a092a59a09118889d60d8e
@@ -297,7 +310,7 @@ Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.54-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
 Size: 10409188
 MD5sum: 16b236812e477ad2fc50365607043795
 SHA1: f1d08fcff1085902420c1e4736cae093581a132b
@@ -309,7 +322,7 @@ Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.62-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
 Size: 10413448
 MD5sum: b55fe08a2688354756215950ae4f6b60
 SHA1: 01f072091a98032e37431614b1ddefe80203cd7e
@@ -321,7 +334,7 @@ Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.82-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
 Size: 10391228
 MD5sum: 1ad608b2ff37a0175146631082ab8348
 SHA1: e03b6fd0f49bba803ffcf2b0239afa9eccc65587
@@ -333,7 +346,7 @@ Package: linux-image-5.15-usbarmory
 Architecture: armhf
 Version: 5.15.52-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
 Size: 10815208
 MD5sum: d930c81c8efc55df6d72e7469afd17ab
 SHA1: 73c43b2c49d7df9ffdd7d5bb436fdbafbe6390aa
@@ -345,7 +358,7 @@ Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.27-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
 Size: 10768880
 MD5sum: 51825959836a95a110b0415f4c376ef4
 SHA1: 81f757eca39b25bd8933d88e2a4d0787f71ad19c
@@ -357,7 +370,7 @@ Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.50-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
 Size: 10742384
 MD5sum: af1a75ede6425f971f4737442ca1344c
 SHA1: 88865eb729eed6bafff12e267f549c74b8c6e5db
@@ -369,7 +382,7 @@ Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.52-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
 Size: 10811924
 MD5sum: e0d7d8075430f5935bd35f7ecb176284
 SHA1: d4cabaa5b7917c007e21d482fa8f3f18e8a9a9ee
@@ -377,12 +390,24 @@ SHA256: 2c8a0137d75782ae37aa94a9e1d27dc3da9cfd1b2ac9ed049539decd2161e8f8
 SHA512: 6d3f6410b76ef219fcf7701c06a182591d285d08081f04d5ea233fd5da50e59c6743035bba39cfc12b9451b2969cb5cf182e0af9bdde146fc2b4a90dc0cd5a54
 Description: Linux 5.15 for USB armory mark-two
 
+Package: linux-image-5.15-usbarmory-mark-two
+Architecture: armhf
+Version: 5.15.55-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
+Size: 10811584
+MD5sum: b616c529325d5f414027e597958c426c
+SHA1: d3a2b1a637beac3dc6d3b545c426cdd554f6597a
+SHA256: e739a2b4cd488f22a089b03e5a0474571dd90ca46f7a6915d71b02d586a729fc
+SHA512: fd783735911958116eeb93fb0c40f16cb972da5c61a554362e585c49e1f7c4818f87da032018fa4c37aad703aec4f84f8eaa3d493de39be2ee5395ec34c6b112
+Description: Linux 5.15 for USB armory mark-two
+
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.29-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
 Conflicts: linux-image-4.19-usbarmory-mark-two
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.29-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.29-0_armhf.deb
 Size: 9331828
 MD5sum: e1ed0560a9700773de524546b95c753a
 SHA1: f2b7c2608466e984aeb98ad41abc76e2fd4e7bdd
@@ -394,7 +419,7 @@ Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.46-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.46-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.46-0_armhf.deb
 Size: 9455472
 MD5sum: fcd87bed44021892cfc4980dbbfc2323
 SHA1: dca7a5745661d59d18dd10028928f44aac29c915
@@ -406,7 +431,7 @@ Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.51-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.51-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.51-0_armhf.deb
 Size: 9459204
 MD5sum: 133b506236d16ed0484993484459316a
 SHA1: c4891a8dc74a2141aecc6e0c091b40f4cc30388e
@@ -418,7 +443,7 @@ Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.72-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.72-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.72-0_armhf.deb
 Size: 9468020
 MD5sum: ece41af628e6b6592fe35bfc18406ee8
 SHA1: 7da324daf205a4aab6565dd152e0c2ebacd4a74c
@@ -430,7 +455,7 @@ Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.82-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.82-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.82-0_armhf.deb
 Size: 9472884
 MD5sum: 72632c4e89439bd94703899b4ca68bb9
 SHA1: 8c1210683a8fb348c0ccc47b9b17c284a243522c
@@ -442,7 +467,7 @@ Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.87-0
 Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
-Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.87-0_armhf.deb
+Filename: debian/dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.87-0_armhf.deb
 Size: 9541084
 MD5sum: 3bcae5303dcd2e9b1f343d9a772350ae
 SHA1: cd2358911b61291e2c001e810e2bf45e99c4e74c
