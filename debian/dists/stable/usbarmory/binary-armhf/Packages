@@ -155,11 +155,11 @@ Version: 5.15.55-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.55-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
-Size: 1142124
-MD5sum: baa0d585a57d775cacb8ed8c5d4e8705
-SHA1: 4b2489ba5cbc8e638edb590305538b332bfacdf8
-SHA256: ac0b41ff40633f6cd69d0ddd4d3a50f5a796ae90f5eb7b64b62a0ec1653aa75a
-SHA512: e154bdb6df902f7991dbbbaa51be2a568916b5fcfa64fe0b5292fc32a6b9ae10ab895a74ea387ce46e3bfd1a28c90072ecba9bdc4de5df2dadcae0f2c85c2c83
+Size: 1142140
+MD5sum: 8cad15b70d26366e518b64b582d993ac
+SHA1: 162a54324cea2032bd7a748dad28d7c952d63376
+SHA256: aa20e51b52bd55387ab66e54ab771835e6e3fec0cd79687f1eabeeef75472ef5
+SHA512: 22ddeb81c51292d761b95cdb4fe44f0cdca7ee890219b20b84cbb28a0a7d8cac8e562447d9e6b5db678321f3bf3dc7e9b47188cda9a76060ccbf825da910cdc2
 Description: Header file for Linux 5.15 for USB armory mark-two
 
 Package: linux-image-4.14-usbarmory
@@ -395,11 +395,11 @@ Architecture: armhf
 Version: 5.15.55-0
 Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
-Size: 10811584
-MD5sum: b616c529325d5f414027e597958c426c
-SHA1: d3a2b1a637beac3dc6d3b545c426cdd554f6597a
-SHA256: e739a2b4cd488f22a089b03e5a0474571dd90ca46f7a6915d71b02d586a729fc
-SHA512: fd783735911958116eeb93fb0c40f16cb972da5c61a554362e585c49e1f7c4818f87da032018fa4c37aad703aec4f84f8eaa3d493de39be2ee5395ec34c6b112
+Size: 10811684
+MD5sum: f44743d6a95d3c8a96feedc0a7e84248
+SHA1: 4eed9283baea1274547413a3b9e10276dfd06485
+SHA256: 45951afe044c0a8a497cf162e663157d8c10da200e172a780dc083d56b2c6c29
+SHA512: 85c2f53cf48a469c3406af9491b43fd62085db8d9f66c788704a2372ef1eeaeb377a7fa75f726d8b2c7b6e0cc22f2cee699978ffafae39781e7b24c8f4982d34
 Description: Linux 5.15 for USB armory mark-two
 
 Package: linux-image-5.4-usbarmory-mark-two
