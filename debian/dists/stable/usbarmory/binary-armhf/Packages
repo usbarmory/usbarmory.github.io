@@ -188,6 +188,19 @@ SHA256: c0604fdae8cb317660f3a634081174bba1b4e87846a70402868e6c33faf05488
 SHA512: b4847d40b1e872ab28ba586056b8c93f954c187255ba95ac3fa6225d78051c2157bdbe95e3b48ab673bb1d53f5573490854b07d9addd5683ab5f079ffa649850
 Description: Header file for Linux 5.15 for USB armory mark-two
 
+Package: linux-headers-5.15-usbarmory-mark-two
+Architecture: armhf
+Version: 5.15.78-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Depends: linux-image-5.15-usbarmory-mark-two (=5.15.78-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.78-0_armhf.deb
+Size: 1142072
+MD5sum: c937d29957d3103ba28328b176b4f62d
+SHA1: eb0d1ffb92d7d69af3021c54c144c8221777fe5d
+SHA256: 788dc242fc4cd10c78dafa3f2243480d78fd3dccd6ed975c163adb668aa94529
+SHA512: e826a429d6475a4b585dbb817455e6fde0b86b64685b7db99efa83256cb4ad0b667e2e16d28b94d6583ebf2bb7f92814efdddf451f3918b16250a814c9a4ead7
+Description: Header file for Linux 5.15 for USB armory mark-two
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
@@ -450,6 +463,18 @@ MD5sum: a035fbc709b9826d300b807c52ca4816
 SHA1: 385cd47f7ebec1781169181014ef92b76c8a2be7
 SHA256: 7d015f2ed3659eb5c56bd15a2fd5d9889dbc3baa67502bd7989a323863358263
 SHA512: 68c071043ad3a95ef1113ad615ba7fac63c480e12b03132891c9e1d76320263b1d4afed594b38a764ca55eba03e92af63d384498f5f1f26a19d4127ea10f505b
+Description: Linux 5.15 for USB armory mark-two
+
+Package: linux-image-5.15-usbarmory-mark-two
+Architecture: armhf
+Version: 5.15.78-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.78-0_armhf.deb
+Size: 10822288
+MD5sum: b8a7870719c819061ff28ae7cafce351
+SHA1: d8429c144ced8e1fb881a6f7320f03bed573c849
+SHA256: 653c9c69d2c2481948291887dd9e97e6e6ee0efb04c7a9f8f570337d398fdc1e
+SHA512: 7c3448bf4fa7819711028bbbad009335259b30e33e0f526553b6c6d51b0725ce0207ee7c3f330b1d2a992d4ecd2fd7d3043ccdc88cbf06fb41ba0da94fa66a6f
 Description: Linux 5.15 for USB armory mark-two
 
 Package: linux-image-5.4-usbarmory-mark-two
