@@ -58,6 +58,18 @@ SHA256: b0980c4430c59053cc67029d9b6d44d25b6e00905321c5f0518bdcc9172f9c81
 SHA512: 6978030886545b4a5800a42d86843d70df91eac10d0291885c4cf5e61e86c9544e812cde439a9fa59ef45bb23645b7f2db9f91c8e953daab0c58544da3256434
 Description: One-Time-Programmable (OTP) fusing tool
 
+Package: crucible
+Architecture: armhf
+Version: 2022.12.06
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: dists/stable/usbarmory/binary-armhf/crucible_2022.12.06_armhf.deb
+Size: 921716
+MD5sum: c95fed8aafa1fba8f15109c059ea41dd
+SHA1: 0f39ecbb22caf8e2eb184d5ac1bb3583b0d6461d
+SHA256: 8c6f649dcbfdcbaf12f48589d8723dbec144e39ee4d86bf618be8c3bbe7b4f74
+SHA512: 64196240c88ade98cab61ca728764611b6df8dd8ea8491c8f6be926e4a54c42abf13ae08652dd4c1edc4ea893e93aeae8bd61ae163c40c2b8590cad121dd7f32
+Description: One-Time-Programmable (OTP) fusing tool
+
 Package: linux-headers-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.54-0
