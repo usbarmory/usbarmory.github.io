@@ -239,6 +239,19 @@ SHA256: ecc20211cbc0684b634d70f0b45b6a0b70c9ecb797b84eeb1d95bc030b9d506f
 SHA512: 5335322dcb36ea7ced1d52e2054f35e5672a0a14fe2356662a900a8e8f3b3a685a14edb3b215e523e7d825bc312a64ca21297d69c0cc0a8eae4462fe9632dc6f
 Description: Header file for Linux 6.1 for USB armory mark-two
 
+Package: linux-headers-6.6-usbarmory-mark-two
+Architecture: armhf
+Version: 6.6.17-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Depends: linux-image-6.6-usbarmory-mark-two (=6.6.17-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.17-0_armhf.deb
+Size: 18711658
+MD5sum: 3c554d9651197f8fc0624a8edd10d709
+SHA1: 49c078589de19f8c3ff781a258dc4b8fd3069331
+SHA256: 20f1021c5f090bd917c7d6d1861d76eb8aa3c76daa531d4e96e0709081b0439a
+SHA512: 48de1f5f10fb163afe4a384c69a2379be20f891df7775a846819400e788407b7c9db096dfb3170637a30f62da498746313f8a7dd138aef3e54c8525e79e48d53
+Description: Header file for Linux 6.6 for USB armory mark-two
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
@@ -611,4 +624,16 @@ SHA1: fb393399be3f95adbfbeffcd8d50f83cd0405d25
 SHA256: 58a7f5e2380e4750f88a1a4ce2349160c75c0a3fe34215d53d1e4e21cf7ff54f
 SHA512: aaa13f3ea124d9e81cde4b2f19e103b2a30ea578d89bc53620390ee5dc49ec7fd60d63eaed9f02c3506cfdea746da3bf693337a81373aeb79c0a0d38d8d2fc97
 Description: Linux 6.1 for USB armory mark-two
+
+Package: linux-image-6.6-usbarmory-mark-two
+Architecture: armhf
+Version: 6.6.17-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.17-0_armhf.deb
+Size: 12401982
+MD5sum: 307fcf3c7a57fc05caa352b086ad009c
+SHA1: 36575911c1ff8bb72d9d0d6c6184d93badc59c51
+SHA256: 2e80104a43bdc37eaf586bba0a2be8464edc64e8f752675210f678cbccb19eeb
+SHA512: b082e1ac8d77e4af1822904bad5c1c121aac9800b9571f3f1504b62f5217d2ed61f554a57340d7836d4bd1c12e8efc5324fc8a8cfca74b1c58f2c2dbdb8c689e
+Description: Linux 6.6 for USB armory mark-two
 
