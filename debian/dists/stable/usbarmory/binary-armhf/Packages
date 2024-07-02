@@ -265,6 +265,19 @@ SHA256: 2e32934d0de6d45125bad5c8f95824ef0fca0df6cc836fd267e689c5b760c82d
 SHA512: 8750075edc23bcc3185952b8d0ad03ccf38b952a05a3e0c404b6707b6ad9cfab45d07ceda0342dd6ee7e7001db1b786f86b89b30d4fb274a0fa93c8dacb403c7
 Description: Header file for Linux 6.6 for USB armory mark-two
 
+Package: linux-headers-6.6-usbarmory-mark-two
+Architecture: armhf
+Version: 6.6.36-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Depends: linux-image-6.6-usbarmory-mark-two (=6.6.36-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.36-0_armhf.deb
+Size: 18730884
+MD5sum: fafd08402e0c9bff4c8194f3c6cbbac5
+SHA1: 18a1ee0109dfc1c1509b6ead9dedb00745ddab87
+SHA256: 52a2544b33b832147c8f43f8ab3d1995c3e4c5c9a4983b2c80771bce86e62633
+SHA512: 13f38c60a782f0745a08f9ee08d1f1c4345ebb8f97a3ae6d61b454ca4da61858e58647e87395021eef8235f83e02020c69f80e8d9ddbbfea7a47fd097d89dcd2
+Description: Header file for Linux 6.6 for USB armory mark-two
+
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
@@ -660,5 +673,17 @@ MD5sum: af591228dcf33eb3c0c4727d5a827689
 SHA1: e97fed07b74204a254020a37b8c5e0a33e3d63c2
 SHA256: bbc73708203f31ea27969565852a6edd4b1f27ba75d3bbd2a44f0cf8384814ac
 SHA512: 95ba2553149c05cefbeb2a851f5653926ded699637874efb62402a6488ddb80d19a370045554182095a56855722be82ad220598231dd55aa18c443c6ab6e1380
+Description: Linux 6.6 for USB armory mark-two
+
+Package: linux-image-6.6-usbarmory-mark-two
+Architecture: armhf
+Version: 6.6.36-0
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.36-0_armhf.deb
+Size: 12542262
+MD5sum: 409d15be9f759af22cd4fb0b4344f41b
+SHA1: ab2938c1dc1b1374cf4765fe39cc36593790d62e
+SHA256: bc2dc52920e10c886d49cd303ac05c17c4751043fb18ca3bbe6dd4a14e36aaac
+SHA512: 0501f2925cf560579e8dc248bd79241079a86a5b39f2deba392b9ca84fbbbb585b1466e8a25fc1f56d054fe18307f6c4838d6597c926ddcb27fd40d627ec89ac
 Description: Linux 6.6 for USB armory mark-two
 
