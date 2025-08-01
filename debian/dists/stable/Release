@@ -1,20 +1,20 @@
 Architectures: armhf
 Codename: debian
 Components: usbarmory
-Date: Thu, 10 Apr 2025 13:58:43 +0000
+Date: Fri, 01 Aug 2025 09:55:40 +0000
 Description: USB armory Linux kernel
 Label: Descriptive label
 Origin: usbarmory
 Suite: stable
 MD5Sum:
- 1aef3b9d36e2d71fa88b565ed3866c6b              192 Release
- e4ac10cd61271ce6b75b4deb191cb79f            35814 usbarmory/binary-armhf/Packages
+ 9f9b74124a4abdb4dae200cf49aac174              192 Release
+ 0ca55324d665786d762fcc9cb8bcd57f            37102 usbarmory/binary-armhf/Packages
 SHA1:
- 9aa7f4340d2e1d4bffbdc2d757f3d6dab6a6e276              192 Release
- be706930c45997c31a1c1daab59462a84ab27f9e            35814 usbarmory/binary-armhf/Packages
+ c3e41757c5f1feba8f8d95d8afbf347c1604a115              192 Release
+ 665d650e783f258d7b8617b11daa34c93056ae87            37102 usbarmory/binary-armhf/Packages
 SHA256:
- 788ef72a8c22205b735b7621f77b005c2247fc1ed3e4ba99b2c841c7b2cd7b6a              192 Release
- 6510bc2ee6dc9470643e6775d822b7a63431587806d3046166b14f74b16968a4            35814 usbarmory/binary-armhf/Packages
+ ed3697931b4054bc679ab62777c9c98901ee0bd9a85bde9f3928cf6700a5bcc9              192 Release
+ 4f396874fe784959eba0f8e421418cebeaac01a87b6cbf2d9b4164d1dc71245c            37102 usbarmory/binary-armhf/Packages
 SHA512:
- d1b5261638f1d64c00547904ff1c8e0e8d7b4e13c891516ec797ad462ce09c895b62fb9bee04115a38dc731304e92f3bf153a55132995322b4186dd86303e752              192 Release
- 590ab28a8b6ea4e63372e124af2fd5ad94c99a6a220e12df379b91d6584f4cbde0628077287b7f5b2f987585ff48a60ab84642d3eb9b6a6ccc307643a4388d1c            35814 usbarmory/binary-armhf/Packages
+ 7b20dbd27ed3577173d2d0dcce6a1b59354584812059d66358b71f71583ce1a11aa5940b2b0e5ec7270fdd46cde1d4c40b0abca1990a8dd31eaafc35068f183e              192 Release
+ b9bf6505d7eef448915dc10223cf7aa3982b4eac3f1be88b177c9272f3fcb4b6e80044a52da4ad675ce121fa5f86a17d589664bab6956a54f55608ad2eaaf2f3            37102 usbarmory/binary-armhf/Packages
