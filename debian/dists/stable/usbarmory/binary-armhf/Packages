@@ -1,7 +1,7 @@
 Package: armoryctl
 Architecture: armhf
 Version: 1.0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.0_armhf.deb
 Size: 944116
 MD5sum: c9af669bac71e58e701826100a4ca2b7
@@ -13,7 +13,7 @@ Description: USB armory Mk II hardware control tool
 Package: armoryctl
 Architecture: armhf
 Version: 1.1
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.1_armhf.deb
 Size: 879176
 MD5sum: 74baa4888139ac3e8fbe59f320217ff0
@@ -25,7 +25,7 @@ Description: USB armory Mk II hardware control tool
 Package: armoryctl
 Architecture: armhf
 Version: 1.2
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/armoryctl_1.2_armhf.deb
 Size: 874804
 MD5sum: 4377a151b253ccf87afc19a49192ce12
@@ -37,7 +37,7 @@ Description: USB armory Mk II hardware control tool
 Package: crucible
 Architecture: armhf
 Version: 2021.05.03
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/crucible_2021.05.03_armhf.deb
 Size: 869488
 MD5sum: ad0c79b20ab2e5221bfbbe5137593719
@@ -49,7 +49,7 @@ Description: One-Time-Programmable (OTP) fusing tool
 Package: crucible
 Architecture: armhf
 Version: 2022.05.25
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/crucible_2022.05.25_armhf.deb
 Size: 840840
 MD5sum: feb5529f60b445f24fcb3041c4afe45d
@@ -61,7 +61,7 @@ Description: One-Time-Programmable (OTP) fusing tool
 Package: crucible
 Architecture: armhf
 Version: 2022.12.06
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/crucible_2022.12.06_armhf.deb
 Size: 921716
 MD5sum: c95fed8aafa1fba8f15109c059ea41dd
@@ -73,7 +73,7 @@ Description: One-Time-Programmable (OTP) fusing tool
 Package: linux-headers-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.54-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.54-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
 Size: 1081740
@@ -86,7 +86,7 @@ Description: Header file for Linux 5.10 for USB armory mark-two
 Package: linux-headers-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.62-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.62-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
 Size: 1081896
@@ -99,7 +99,7 @@ Description: Header file for Linux 5.10 for USB armory mark-two
 Package: linux-headers-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.82-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.10-usbarmory-mark-two (=5.10.82-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
 Size: 1081928
@@ -112,7 +112,7 @@ Description: Header file for Linux 5.10 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory
 Architecture: armhf
 Version: 5.15.52-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory (=5.15.52-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
 Size: 1141756
@@ -125,7 +125,7 @@ Description: Header file for Linux 5.15 for USB armory mark-one
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.27-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.27-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
 Size: 1141280
@@ -138,7 +138,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.50-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.50-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
 Size: 1141824
@@ -151,7 +151,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.52-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.52-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
 Size: 1141700
@@ -164,7 +164,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.55-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.55-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
 Size: 1142140
@@ -177,7 +177,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.56-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.56-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.56-0_armhf.deb
 Size: 1142152
@@ -190,7 +190,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.62-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.62-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.62-0_armhf.deb
 Size: 1142076
@@ -203,7 +203,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.78-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-5.15-usbarmory-mark-two (=5.15.78-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-5.15-usbarmory-mark-two_5.15.78-0_armhf.deb
 Size: 1142072
@@ -216,7 +216,7 @@ Description: Header file for Linux 5.15 for USB armory mark-two
 Package: linux-headers-6.1-usbarmory-mark-two
 Architecture: armhf
 Version: 6.1.19-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-6.1-usbarmory-mark-two (=6.1.19-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.1-usbarmory-mark-two_6.1.19-0_armhf.deb
 Size: 1211168
@@ -229,7 +229,7 @@ Description: Header file for Linux 6.1 for USB armory mark-two
 Package: linux-headers-6.1-usbarmory-mark-two
 Architecture: armhf
 Version: 6.1.39-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Depends: linux-image-6.1-usbarmory-mark-two (=6.1.39-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.1-usbarmory-mark-two_6.1.39-0_armhf.deb
 Size: 1252566
@@ -307,7 +307,7 @@ Description: Header file for Linux 6.6 for USB armory mark-two
 Package: linux-image-4.14-usbarmory
 Architecture: armhf
 Version: 4.14.116-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.14-usbarmory_4.14.116-0_armhf.deb
 Size: 5409058
 MD5sum: ea4579e7889240c29066d4e019492947
@@ -319,7 +319,7 @@ Description: Linux 4.14 for USB armory
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.57-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.57-0_armhf.deb
 Size: 5678854
 MD5sum: d58fbd954eecb16b93e79b6b00b898cb
@@ -331,7 +331,7 @@ Description: Linux 4.19 for USB armory
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.58-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.58-0_armhf.deb
 Size: 5680254
 MD5sum: 6f447557c2c8529328188244a15b0b66
@@ -343,7 +343,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.63-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.63-0_armhf.deb
 Size: 5681980
 MD5sum: 405b3f47753b8aa7782a2a2e37e4d119
@@ -355,7 +355,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.67-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.67-0_armhf.deb
 Size: 5682792
 MD5sum: cbcedfa03a82d4a29bd9d706dc1b04cb
@@ -367,7 +367,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.82-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.82-0_armhf.deb
 Size: 5677664
 MD5sum: 631a6781864e82dfcd03fa2c5f103e9e
@@ -379,7 +379,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.90-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.90-0_armhf.deb
 Size: 5681828
 MD5sum: 7847146695c84587392628ba407dbfac
@@ -391,7 +391,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.19-usbarmory-mark-two
 Architecture: armhf
 Version: 4.19.95-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.19-usbarmory-mark-two_4.19.95-0_armhf.deb
 Size: 5683460
 MD5sum: 25c52aa2fac14007138d5cff4ec5ab55
@@ -403,7 +403,7 @@ Description: Linux 4.19 for USB armory mark-two
 Package: linux-image-4.9-usbarmory
 Architecture: armhf
 Version: 4.9.80-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.80-0_armhf.deb
 Size: 5096854
 MD5sum: 28ee0fdd2a11240125adae5afca7a129
@@ -415,7 +415,7 @@ Description: Linux 4.9 for USB armory
 Package: linux-image-4.9-usbarmory
 Architecture: armhf
 Version: 4.9.82-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-4.9-usbarmory_4.9.82-0_armhf.deb
 Size: 5097636
 MD5sum: 1e897e47c89f7279a68e1fa4f68c05cf
@@ -427,7 +427,7 @@ Description: Linux 4.9 for USB armory
 Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.22-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.22-0_armhf.deb
 Size: 10199696
 MD5sum: 011577d2af1ced313526b11fd112712d
@@ -439,7 +439,7 @@ Description: Linux 5.10 for USB armory mark-two
 Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.34-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.34-0_armhf.deb
 Size: 10202944
 MD5sum: d53d2550b189f2ecfddd1634c05aa70a
@@ -451,7 +451,7 @@ Description: Linux 5.10 for USB armory mark-two
 Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.54-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.54-0_armhf.deb
 Size: 10409188
 MD5sum: 16b236812e477ad2fc50365607043795
@@ -463,7 +463,7 @@ Description: Linux 5.10 for USB armory mark-two
 Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.62-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.62-0_armhf.deb
 Size: 10413448
 MD5sum: b55fe08a2688354756215950ae4f6b60
@@ -475,7 +475,7 @@ Description: Linux 5.10 for USB armory mark-two
 Package: linux-image-5.10-usbarmory-mark-two
 Architecture: armhf
 Version: 5.10.82-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.10-usbarmory-mark-two_5.10.82-0_armhf.deb
 Size: 10391228
 MD5sum: 1ad608b2ff37a0175146631082ab8348
@@ -487,7 +487,7 @@ Description: Linux 5.10 for USB armory mark-two
 Package: linux-image-5.15-usbarmory
 Architecture: armhf
 Version: 5.15.52-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-one_5.15.52-0_armhf.deb
 Size: 10815208
 MD5sum: d930c81c8efc55df6d72e7469afd17ab
@@ -499,7 +499,7 @@ Description: Linux 5.15 for USB armory mark-one
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.27-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.27-0_armhf.deb
 Size: 10768880
 MD5sum: 51825959836a95a110b0415f4c376ef4
@@ -511,7 +511,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.50-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.50-0_armhf.deb
 Size: 10742384
 MD5sum: af1a75ede6425f971f4737442ca1344c
@@ -523,7 +523,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.52-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.52-0_armhf.deb
 Size: 10811924
 MD5sum: e0d7d8075430f5935bd35f7ecb176284
@@ -535,7 +535,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.55-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.55-0_armhf.deb
 Size: 10811684
 MD5sum: f44743d6a95d3c8a96feedc0a7e84248
@@ -547,7 +547,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.56-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.56-0_armhf.deb
 Size: 10810276
 MD5sum: e6d3b33b3b23d9ea0054d8cecf7b2dd8
@@ -559,7 +559,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.62-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.62-0_armhf.deb
 Size: 10820644
 MD5sum: a035fbc709b9826d300b807c52ca4816
@@ -571,7 +571,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.15-usbarmory-mark-two
 Architecture: armhf
 Version: 5.15.78-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.15-usbarmory-mark-two_5.15.78-0_armhf.deb
 Size: 10822288
 MD5sum: b8a7870719c819061ff28ae7cafce351
@@ -583,7 +583,7 @@ Description: Linux 5.15 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.29-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Conflicts: linux-image-4.19-usbarmory-mark-two
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.29-0_armhf.deb
 Size: 9331828
@@ -596,7 +596,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.46-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.46-0_armhf.deb
 Size: 9455472
 MD5sum: fcd87bed44021892cfc4980dbbfc2323
@@ -608,7 +608,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.51-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.51-0_armhf.deb
 Size: 9459204
 MD5sum: 133b506236d16ed0484993484459316a
@@ -620,7 +620,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.72-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.72-0_armhf.deb
 Size: 9468020
 MD5sum: ece41af628e6b6592fe35bfc18406ee8
@@ -632,7 +632,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.82-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.82-0_armhf.deb
 Size: 9472884
 MD5sum: 72632c4e89439bd94703899b4ca68bb9
@@ -644,7 +644,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-5.4-usbarmory-mark-two
 Architecture: armhf
 Version: 5.4.87-0
-Maintainer: Andrej Rosano <andrej.rosano@f-secure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-5.4-usbarmory-mark-two_5.4.87-0_armhf.deb
 Size: 9541084
 MD5sum: 3bcae5303dcd2e9b1f343d9a772350ae
@@ -656,7 +656,7 @@ Description: Linux 5.4 for USB armory mark-two
 Package: linux-image-6.1-usbarmory-mark-two
 Architecture: armhf
 Version: 6.1.19-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.1-usbarmory-mark-two_6.1.19-0_armhf.deb
 Size: 11231556
 MD5sum: e92876f08f8cd37488196161dc06c425
@@ -668,7 +668,7 @@ Description: Linux 6.1 for USB armory mark-two
 Package: linux-image-6.1-usbarmory-mark-two
 Architecture: armhf
 Version: 6.1.39-0
-Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
+Maintainer: Andrej Rosano <andrej@inversepath.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.1-usbarmory-mark-two_6.1.39-0_armhf.deb
 Size: 11705052
 MD5sum: d5b1ab84c476d81e8650fe3361ec4e98
