@@ -242,7 +242,7 @@ Description: Header file for Linux 6.1 for USB armory mark-two
 Package: linux-headers-6.12-usbarmory-mark-two
 Architecture: armhf
 Version: 6.12.40-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-6.12-usbarmory-mark-two (=6.12.40-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.12-usbarmory-mark-two_6.12.40-0_armhf.deb
 Size: 19537486
@@ -255,7 +255,7 @@ Description: Header file for Linux 6.12 for USB armory mark-two
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.17-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-6.6-usbarmory-mark-two (=6.6.17-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.17-0_armhf.deb
 Size: 18711658
@@ -268,7 +268,7 @@ Description: Header file for Linux 6.6 for USB armory mark-two
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.24-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-6.6-usbarmory-mark-two (=6.6.24-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.24-0_armhf.deb
 Size: 18710730
@@ -281,7 +281,7 @@ Description: Header file for Linux 6.6 for USB armory mark-two
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.36-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-6.6-usbarmory-mark-two (=6.6.36-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.36-0_armhf.deb
 Size: 18730884
@@ -294,7 +294,7 @@ Description: Header file for Linux 6.6 for USB armory mark-two
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.58-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Depends: linux-image-6.6-usbarmory-mark-two (=6.6.58-0)
 Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.6-usbarmory-mark-two_6.6.58-0_armhf.deb
 Size: 18714186
@@ -680,7 +680,7 @@ Description: Linux 6.1 for USB armory mark-two
 Package: linux-image-6.12-usbarmory-mark-two
 Architecture: armhf
 Version: 6.12.40-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.12-usbarmory-mark-two_6.12.40-0_armhf.deb
 Size: 12939372
 MD5sum: 31f1b9d44fa88aa9cf8153fb3ffae4c9
@@ -692,7 +692,7 @@ Description: Linux 6.12 for USB armory mark-two
 Package: linux-image-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.17-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.17-0_armhf.deb
 Size: 12401982
 MD5sum: 307fcf3c7a57fc05caa352b086ad009c
@@ -704,7 +704,7 @@ Description: Linux 6.6 for USB armory mark-two
 Package: linux-image-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.24-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.24-0_armhf.deb
 Size: 12403474
 MD5sum: af591228dcf33eb3c0c4727d5a827689
@@ -716,7 +716,7 @@ Description: Linux 6.6 for USB armory mark-two
 Package: linux-image-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.36-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.36-0_armhf.deb
 Size: 12542262
 MD5sum: 409d15be9f759af22cd4fb0b4344f41b
@@ -728,7 +728,7 @@ Description: Linux 6.6 for USB armory mark-two
 Package: linux-image-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.58-0
-Maintainer: Andrej Rosano <andrej@inversepath.com>
+Maintainer: Andrej Rosano <andrej.rosano@withsecure.com>
 Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.6-usbarmory-mark-two_6.6.58-0_armhf.deb
 Size: 12516838
 MD5sum: 68ffcb83db48a99c828ffe129f4e75f1
