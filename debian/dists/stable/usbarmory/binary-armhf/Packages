@@ -252,6 +252,19 @@ SHA256: 36080e188445f0f7f00cd40003a8968a1021a922830579a46a74c77679da7d64
 SHA512: c1c5a6664ab429672dcf2a9113a8a13387dea625199b494131c0c3b3803de824fb819d3256759b808633c146a7e5f196a2847f219d2591fde281ef82038ab0c2
 Description: Header file for Linux 6.12 for USB armory mark-two
 
+Package: linux-headers-6.18-usbarmory-mark-two
+Architecture: armhf
+Version: 6.18.22-0
+Maintainer: Andrej Rosano <andrej@inversepath.com>
+Depends: linux-image-6.18-usbarmory-mark-two (=6.18.22-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.18-usbarmory-mark-two_6.18.22-0_armhf.deb
+Size: 20615836
+MD5sum: af1bb1426161cb09276087f82b95dc3f
+SHA1: 96a8d6389a7f72b88b8425e75bae5f169aab5454
+SHA256: 81f809a48c476c29ac2a80a069257093610a00ca74f3e34fbd3ff1e9649431d8
+SHA512: f93aedb5360b5cf005dd8139cbba591aeef19a4ddd03a459e03adb81766254e437d3c050505cacf3a02a951d2a6259f14a1810afc5f91d3266a7a92927a37fbc
+Description: Header file for Linux 6.18 for USB armory mark-two
+
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.17-0
@@ -688,6 +701,18 @@ SHA1: fabc8b166e0c1e2d17f3c8df6865b93519be0537
 SHA256: f4037a3e484aa502e1d563ed620c4a1e40bf545fb3a98585c3383a0305da1ed0
 SHA512: 2d7d6c567197f7ea76e92368ed8a926636f9ea647b65a98a00de104a7d16e9de33f52b61629daed4a8b30130c22899d826c12899ceaf5817953186a6a5a37031
 Description: Linux 6.12 for USB armory mark-two
+
+Package: linux-image-6.18-usbarmory-mark-two
+Architecture: armhf
+Version: 6.18.22-0
+Maintainer: Andrej Rosano <andrej@inversepath.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.18-usbarmory-mark-two_6.18.22-0_armhf.deb
+Size: 13420464
+MD5sum: c9dd43c24332fe559e0e09986441de0a
+SHA1: db408982b81b0e08ef405381fe1612f005384700
+SHA256: 588caa3f528884b747974e1e0d09ede2caed4306a92a489f796a0d20764350bc
+SHA512: c312114aaee82d137feade5a85c53604c2f77d86752ce84c731e87c00d3d0c7c122f3b2335de4383629cf5547bd18d85a8c6416397c598d62528c0e45c838131
+Description: Linux 6.18 for USB armory mark-two
 
 Package: linux-image-6.6-usbarmory-mark-two
 Architecture: armhf
