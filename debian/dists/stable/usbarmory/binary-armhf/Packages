@@ -265,6 +265,19 @@ SHA256: 81f809a48c476c29ac2a80a069257093610a00ca74f3e34fbd3ff1e9649431d8
 SHA512: f93aedb5360b5cf005dd8139cbba591aeef19a4ddd03a459e03adb81766254e437d3c050505cacf3a02a951d2a6259f14a1810afc5f91d3266a7a92927a37fbc
 Description: Header file for Linux 6.18 for USB armory mark-two
 
+Package: linux-headers-6.18-usbarmory-mark-two
+Architecture: armhf
+Version: 6.18.49-0
+Maintainer: Andrej Rosano <andrej@inversepath.com>
+Depends: linux-image-6.18-usbarmory-mark-two (=6.18.49-0)
+Filename: dists/stable/usbarmory/binary-armhf/linux-headers-6.18-usbarmory-mark-two_6.18.49-0_armhf.deb
+Size: 20647648
+MD5sum: da39fe4830f33d1a88b6c10e153d546d
+SHA1: 1a763dfdc7a31774c97146802510b881315b40f3
+SHA256: 9c09a1c1b39f66ab670345f83227d6a07d9117109fd3bb263a117a1468cbae23
+SHA512: e7a5d96b77000b8a2b5abeb7263cbad5f660e70033a09acb46ae2aee32dccb224c86af3c29145670ed41fd80b9a4694083fcf37240902de8c303f59e5ce8cc79
+Description: Header file for Linux 6.18 for USB armory mark-two
+
 Package: linux-headers-6.6-usbarmory-mark-two
 Architecture: armhf
 Version: 6.6.17-0
@@ -712,6 +725,18 @@ MD5sum: c9dd43c24332fe559e0e09986441de0a
 SHA1: db408982b81b0e08ef405381fe1612f005384700
 SHA256: 588caa3f528884b747974e1e0d09ede2caed4306a92a489f796a0d20764350bc
 SHA512: c312114aaee82d137feade5a85c53604c2f77d86752ce84c731e87c00d3d0c7c122f3b2335de4383629cf5547bd18d85a8c6416397c598d62528c0e45c838131
+Description: Linux 6.18 for USB armory mark-two
+
+Package: linux-image-6.18-usbarmory-mark-two
+Architecture: armhf
+Version: 6.18.49-0
+Maintainer: Andrej Rosano <andrej@inversepath.com>
+Filename: dists/stable/usbarmory/binary-armhf/linux-image-6.18-usbarmory-mark-two_6.18.49-0_armhf.deb
+Size: 13443908
+MD5sum: 4015b12e82b5e23f64b01a8afe66b549
+SHA1: 89e4a6754da90a2a09591ab75df52f024650b1b2
+SHA256: d3b19483a26e6aa7c6caed4970bc52c689f66b4cf35c7a62166b8569435fee7a
+SHA512: 7e1cb46550a71a0279cc153a63066ea9ebb31cc489202f3626fd17bf78bd41ed3b92371c83603909eac4362b8c7a05515d24408936906b36a1b60a9bee465fd9
 Description: Linux 6.18 for USB armory mark-two
 
 Package: linux-image-6.6-usbarmory-mark-two
